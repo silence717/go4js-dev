@@ -14,7 +14,3 @@ func Add(nums ...int) int {
 	}
 	return total
 }
-
-func average() {
-
-}
